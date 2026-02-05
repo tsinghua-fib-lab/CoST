@@ -1,6 +1,6 @@
 <div align="center">
   
-# Collaborative Deterministic-Diffusion Model for Probabilistic  Spatiotemporal Prediction
+# Collaborative Deterministic-Probabilistic Learning for Real-World Spatiotemporal Dynamics
 
 [![python](https://img.shields.io/badge/-Python_3.9-blue?logo=python&logoColor=white)](https://github.com/pre-commit/pre-commit)
 [![pytorch](https://img.shields.io/badge/PyTorch_2.7+-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/get-started/locally/)
@@ -9,7 +9,7 @@
 </div>
 
 # Description
-This is the official implementation of our KDD 2026 AI for Sciences Track submission: **Collaborative Deterministic-Diffusion Model for Probabilistic  Spatiotemporal Prediction**.
+This is the official implementation of our KDD 2026 AI for Sciences Track submission: **Collaborative Deterministic-Probabilistic Learning for Real-World Spatiotemporal Dynamics**.
 
 -----
 
